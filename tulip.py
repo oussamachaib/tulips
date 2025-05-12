@@ -14,7 +14,6 @@ import cv2
 import os
 
 #%% Primary functions
-
 class tulipe():
     def __init__(self, no_components = 50, deriv = True, root_id = 2, leaf_id = -1, n_points = 1000, n_init = 100, no_clusters = 9, max_iter = 1000, spline_res = 1000,
                        spline_degree = 2, smoothing_factor = 0.001, smoother = 'spline', kernel = 'cubic'):
