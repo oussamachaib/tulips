@@ -4,5 +4,5 @@
 
 Stay tuned 🌷
 
-![plot](./teaser.png)
+![plot](./teaser2.png)
 
